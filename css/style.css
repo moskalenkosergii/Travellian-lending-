@@ -1226,10 +1226,6 @@ h6 {
   row-gap: 6.25rem;
 }
 
-.gallery__title {
-  white-space: nowrap;
-}
-
 .gallery__controls {
   -ms-grid-column-align: end;
       justify-self: end;
